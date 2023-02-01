@@ -1,12 +1,13 @@
 {
-  "name": "primer-proyecto-node",
+  "name": "hola-mundo",
   "version": "1.0.0",
-  "description": "Mi primer proyecto de JavaScript con Node",
+  "description": "Este es mi primer proyecto de Javascript con Node en Open Bootcamp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "saludar": "node hola_mundo.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "saludo": "echo \"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo\" && exit 1"
   },
   "keywords": [
     "JavaScript",
