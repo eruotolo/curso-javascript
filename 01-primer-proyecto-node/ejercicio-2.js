@@ -10,6 +10,19 @@
 const datosPersonales = ["Edgardo", 25, true, new Date(1983,0,25)];
 console.log(datosPersonales);
 
+const datosPersonales1 = [
+    "Edgardo",
+    25,
+    true,
+    new Date(1983,)
+    {
+        nombre: "Asi hablo zarathustra",
+        autor: "Nietzsche",
+        fecha: new Date(1883, 0, 1 ),
+        url: "https://es.wikipedia.org/wiki/As%C3%AD_habl%C3%B3_Zaratustra"
+    }
+]
+
 const misDatos = {
     nombre: "Edgardo",
     edad: 25,
